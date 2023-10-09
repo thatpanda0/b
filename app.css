@@ -5,7 +5,7 @@
 */
 
 /* V A R I A B L E S */
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Figtree&display=swap'); /* Font Import */
 
 :root {
@@ -56,7 +56,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Figtree', sans-serif;
+  font-family: 'Poppins', sans-serif;
   transition: 0.2s ease-in-out;
 }
 
