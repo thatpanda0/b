@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Classlink',
+					link: 'https://www.launchpad.classlink.com/lwsd',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Skyward',
+					link: 'https://www2.saas.wa-k12.net/scripts/cgiip.exe/WService=wlkwashs71/fwemnu01.w',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'FLEXisched',
+					link: 'https://www.evergreen.flexisched.net',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'GitHub',
+					link: 'https://www.github.com',
 				},
 			],
 		},
