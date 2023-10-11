@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Classlink',
-					link: 'https://www.launchpad.classlink.com/lwsd',
+					link: 'https://launchpad.classlink.com/lwsd',
 				},
 				{
 					name: 'Skyward',
@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'FLEXisched',
-					link: 'https://www.evergreen.flexisched.net',
+					link: 'https://evergreen.flexisched.net',
 				},
 				{
 					name: 'GitHub',
