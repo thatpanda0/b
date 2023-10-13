@@ -6,7 +6,7 @@
 
 /* V A R I A B L E S */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Figtree&display=swap'); /* Font Import */
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;500&display=swap'); /* Font Import */
 
 :root {
   /* Font Size */
@@ -166,14 +166,14 @@ body {
 #separator,
 #minutes {
   font-size: var(--fg-primary);
-  font-weight: bolder;
+  font-weight: 500;
   color: var(--fg);
 }
 
 #month,
 #day {
   font-size: var(--fg-date);
-  font-weight: bold;
+  font-weight: 500;
   color: var(--fg);
 }
 
@@ -193,7 +193,7 @@ body {
 
 .weatherValue p {
   font-size: var(--fg-secondary);
-  font-weight: bolder;
+  font-weight: 500;
   margin-left: 15px;
   color: var(--fg);
 }
