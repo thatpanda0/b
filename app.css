@@ -46,8 +46,8 @@
   
   /* Image background  */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.70),
-    rgba(0, 0, 0, 0.70)
+    rgba(0, 0, 0, 0.80),
+    rgba(0, 0, 0, 0.80)
   ); /* Filter color */
 }
 
@@ -324,7 +324,7 @@ body {
   margin-top: 1vh;
   padding: 8px 12px;
   border-radius: 5px;
-  font-weight: bold;
+  font-weight: 400;
   text-align: center;
   width: 80%;
 }
