@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://evergreen.flexisched.net',
 				},
 				{
-					name: 'GitHub',
-					link: 'https://www.github.com',
+					name: 'Microsoft Teams',
+					link: 'https://www.teams.microsoft.com',
 				},
 			],
 		},
