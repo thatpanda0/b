@@ -174,7 +174,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Microsoft Teams',
-					link: 'https://www.teams.microsoft.com',
+					link: 'https://teams.microsoft.com',
 				},
 			],
 		},
