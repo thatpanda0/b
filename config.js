@@ -141,8 +141,8 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Z-Library',
+					link: 'https://singlelogin.se/',
 				},
 				{
 					name: 'Classic',
