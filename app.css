@@ -9,35 +9,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Figtree:wght@400;500&display=swap'); /* Font Import */
 
 @font-face {
-  font-family: "Segoe UI";
-  src: local("Segoe UI Light"), url("https://discordstyles.github.io/Fluent/fonts/light.woff2") format("woff2");
-  font-weight: 100;
-}
-@font-face {
-  font-family: "Segoe UI";
-  src: local("Segoe UI Semilight"), url("https://discordstyles.github.io/Fluent/fonts/semilight.woff2") format("woff2");
-  font-weight: 200;
-}
-@font-face {
-  font-family: "Segoe UI";
-  src: local("Segoe UI"), url("https://discordstyles.github.io/Fluent/fonts/normal.woff2") format("woff2");
-  font-weight: 400;
-}
-@font-face {
-  font-family: "Segoe UI";
-  src: local("Segoe UI Semibold"), url("https://discordstyles.github.io/Fluent/fonts/semibold.woff2") format("woff2");
-  font-weight: 600;
-}
-@font-face {
-  font-family: "Segoe UI";
-  src: local("Segoe UI Bold"), url("https://discordstyles.github.io/Fluent/fonts/bold.woff2") format("woff2");
-  font-weight: 700;
-}
-
-:root {
-  --font-primary: "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Helvetica, Verdana, Tahoma, Geneva, Arial, sans-serif;
-  --font-display: "Segoe UI Variable Display", "Segoe UI", "Helvetica Neue", Helvetica, Verdana, Tahoma, Geneva, Arial, sans-serif;
-  --font-code: Consolas, Menlo, Monaco, "Courier New", monospace;
+  font-family: "Google Sans";
+  src: url("GoogleSans-Medium.ttf");
 }
 
 :root {
@@ -89,7 +62,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Segoe UI', sans-serif;
+  font-family: 'Google Sans', sans-serif;
   transition: 0.2s ease-in-out;
 }
 
@@ -376,7 +349,7 @@ body {
   .timeBlock {
     grid-row: 1 / span 2;
     grid-column: 1 / span 4;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: 'Google Sans', sans-serif;
   }
 
   .weatherBlock {
