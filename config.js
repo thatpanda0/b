@@ -168,7 +168,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Skyward',
-					link: 'https://www2.saas.wa-k12.net/scripts/cgiip.exe/WService=wlkwashs71/fwemnu01.w',
+					link: 'https://www.q.wa-k12.net/lkwashSTS',
 				},
 				{
 					name: 'FLEXisched',
