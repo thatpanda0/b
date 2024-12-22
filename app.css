@@ -35,6 +35,12 @@
 }
 
 :root {
+  --font-primary: "Segoe UI Variable Text", "Segoe UI", "Helvetica Neue", Helvetica, Verdana, Tahoma, Geneva, Arial, sans-serif;
+  --font-display: "Segoe UI Variable Display", "Segoe UI", "Helvetica Neue", Helvetica, Verdana, Tahoma, Geneva, Arial, sans-serif;
+  --font-code: Consolas, Menlo, Monaco, "Courier New", monospace;
+}
+
+:root {
   /* Font Size */
   --fg-primary: 12vh; /* Time and Greetings */
   --fg-secondary: 3vh; /* Greetings and Weather widger */
@@ -370,7 +376,7 @@ body {
   .timeBlock {
     grid-row: 1 / span 2;
     grid-column: 1 / span 4;
-    font-family: 'Figtree', sans-serif;
+    font-family: 'Segoe UI', sans-serif;
   }
 
   .weatherBlock {
